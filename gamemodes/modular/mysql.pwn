@@ -1,0 +1,5 @@
+#define DB_HOST "localhost"
+#define DB_NAME "testserver"
+#define DB_USER "root"
+#define DB_PASS ""
+// #define DB_PASS "x#M4fwV!8F9"

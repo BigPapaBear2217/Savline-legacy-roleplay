@@ -1,0 +1,11 @@
+server_log.txt
+pawno/settings.ini
+logs/plugins/mysql.log
+logs/log-core.log
+gamemodes/savline.amx
+logs/errors.log
+logs/warnings.log
+gamemodes/savline.amx
+.vscode/settings.json
+
+server_log.txt
